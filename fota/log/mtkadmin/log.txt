@@ -1,0 +1,5 @@
+2015-09-09 12:38:07   Client:192.168.0.91  NGM-E505  Publish statue from 0   to   2
+2015-09-14 11:15:56   Client:192.168.0.91  NGM-E505  release_notes from v001   to   v002
+2015-09-14 11:46:38   Client:192.168.0.91  NGM-E505  Publish statue from 2   to   0
+2015-09-14 11:47:16   Client:192.168.0.91  NGM-E505  Publish statue from 0   to   2
+2015-09-14 11:51:44   Client:192.168.0.91  NGM-E505  Publish statue from 0   to   2

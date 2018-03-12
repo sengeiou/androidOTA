@@ -1,0 +1,123 @@
+2015-09-09 12:13:29   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 12:13:29   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/v1.0/package.zip
+2015-09-09 12:13:29   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 12:33:03   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 12:33:03   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/lmy47d test-keys/package.zip
+2015-09-09 12:33:03   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 12:41:03   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 12:41:03   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/lmy47d test-keys/package.zip
+2015-09-09 12:41:03   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 12:49:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 12:49:27   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/lmy47d test-keys/package.zip
+2015-09-09 12:49:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 13:06:49   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 13:06:49   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/lmy47d test-keys/package.zip
+2015-09-09 13:06:49   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 13:12:58   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 13:12:58   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441693639/package.zip
+2015-09-09 13:12:58   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 14:11:36   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 14:11:36   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441762795/package.zip
+2015-09-09 14:11:36   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:24:05   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:24:05   Client:192.168.0.91  /var/www/OTA/OEM_test/PRO_test/REG_it/OPE_cust/111/package.zip
+2015-09-09 16:24:05   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:31:12   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:31:12   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441775752/package.zip
+2015-09-09 16:31:12   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:31:12   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:31:12   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441779221/package.zip
+2015-09-09 16:31:12   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:31:12   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:31:12   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441779221/1441787393package.zip
+2015-09-09 16:31:12   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:39:11   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:39:11   Client:192.168.0.91  delete delta   /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441775752/1441787591package.zip
+2015-09-09 16:39:11   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:43:58   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:43:58   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441775752/package.zip
+2015-09-09 16:43:58   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:43:58   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:43:58   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441779221/package.zip
+2015-09-09 16:43:58   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:43:58   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-09 16:43:58   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441775752/1441787968update.zip
+2015-09-09 16:43:58   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-10 11:59:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-10 11:59:27   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441853292/package.zip
+2015-09-10 11:59:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-10 13:36:35   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-10 13:36:35   Client:192.168.0.91  delete delta   /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441793978/1441858089package.zip
+2015-09-10 13:36:35   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 15:22:55   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 15:22:55   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441793978/md5sum
+2015-09-11 15:22:55   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 15:22:55   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 15:22:55   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441853292/md5sum
+2015-09-11 15:22:55   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 15:22:55   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 15:22:55   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441793978/1441863410update.zip
+2015-09-11 15:22:55   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 8:03:01   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 8:03:01   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1223/md5sum
+2015-09-11 8:03:01   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 8:53:36   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 8:53:36   Client:192.168.0.91  delete delta   /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441793978/1441960528package.zip
+2015-09-11 8:53:36   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 8:55:19   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-11 8:55:19   Client:192.168.0.91  delete delta   /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441793978/1441961653update.zip
+2015-09-11 8:55:19   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 6:59:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 6:59:27   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441793978/package.zip
+2015-09-14 6:59:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 6:59:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 6:59:27   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441793978/1442202486package.zip
+2015-09-14 6:59:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 7:03:51   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 7:03:51   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/1441853292/package.zip
+2015-09-14 7:03:51   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 11:13:01   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 11:13:01   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_505[gms]/REG_it/OPE_cust/1441779221/md5sum
+2015-09-14 11:13:01   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 11:13:01   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 11:13:01   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_505[gms]/REG_it/OPE_cust/1441793978/1442220635package.zip
+2015-09-14 11:13:01   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 11:49:26   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 11:49:26   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/lmy47d test-keys/md5sum
+2015-09-14 11:49:26   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 11:49:26   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-14 11:49:26   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/ngm$e505$v01$h01$20150910/1442231031package.zip
+2015-09-14 11:49:26   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-18 12:02:26   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-18 12:02:26   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/ngm$e505$v01$h01$20150918/md5sum
+2015-09-18 12:02:26   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-18 12:02:26   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-18 12:02:26   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/ngm$e505$v01$h01$20150909/1442229368package.zip
+2015-09-18 12:02:26   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-18 12:02:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-18 12:02:27   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_ngm-e505/REG_it/OPE_cust/ngm$e505$v01$h01$20150918$test/md5sum
+2015-09-18 12:02:27   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-19 1:33:15   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-19 1:33:15   Client:192.168.0.91  /var/www/OTA/OEM_ngm/PRO_e505/REG_it/OPE_cust/ngm$e505$v01$h01$20150918$test/md5sum
+2015-09-19 1:33:15   Client:192.168.0.91  <br><br><br>DELETE SUCESS---------------------
+2015-09-22 7:49:29   Client:192.168.0.134  <br><br><br>DELETE SUCESS---------------------
+2015-09-22 7:49:29   Client:192.168.0.134  /var/www/OTA/OEM_ngm/PRO_e505/REG_it/OPE_cust/ngm$e505$v02$h01$20150918/md5sum
+2015-09-22 7:49:29   Client:192.168.0.134  <br><br><br>DELETE SUCESS---------------------
+2015-09-22 7:49:29   Client:192.168.0.134  <br><br><br>DELETE SUCESS---------------------
+2015-09-22 7:49:29   Client:192.168.0.134  /var/www/OTA/OEM_ngm/PRO_e505/REG_it/OPE_cust/ngm$e505$v02$h01$20150918/1442642812package.zip
+2015-09-22 7:49:29   Client:192.168.0.134  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 3:34:10   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 3:34:10   Client:192.168.0.46  /var/www/OTA/OEM_alps/PRO_rlk8783$f6$rc/REG_zh-cn/OPE_cust/nrd90m test-keys/package.zip
+2018-01-20 3:34:10   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 6:19:09   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 6:19:09   Client:192.168.0.46  /var/www/OTA/OEM_alps/PRO_rlk8783$f6$rc/REG_zh-cn/OPE_cust/p102$hy$pad$s$v03$20180112/package.zip
+2018-01-20 6:19:09   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 8:13:48   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 8:13:48   Client:192.168.0.46  /var/www/OTA/OEM_alps/PRO_rlk8783$f6$rc/REG_zh-cn/OPE_cust/p102$hy$pad$s$v02$20180112/package.zip
+2018-01-20 8:13:48   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 8:13:48   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 8:13:48   Client:192.168.0.46  /var/www/OTA/OEM_alps/PRO_rlk8783$f6$rc/REG_zh-cn/OPE_cust/p102$hy$pad$s$v03$20180112/package.zip
+2018-01-20 8:13:48   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 8:13:48   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------
+2018-01-20 8:13:48   Client:192.168.0.46  /var/www/OTA/OEM_alps/PRO_rlk8783$f6$rc/REG_zh-cn/OPE_cust/p102$hy$pad$s$v02$20180112/1516429415package.zip
+2018-01-20 8:13:48   Client:192.168.0.46  <br><br><br>DELETE SUCESS---------------------

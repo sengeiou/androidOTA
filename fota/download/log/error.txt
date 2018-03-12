@@ -1,0 +1,2 @@
+2015-12-14 2:40:10   {"status":1002,"info":"There is a error occured"} there is a error when open the database
+2015-12-14 6:03:35   {"status":1002,"info":"There is a error occured"} there is a error when open the database
