@@ -1,11 +1,11 @@
 <?PHP
-$domain="192.168.0.190";
+$domain="120.76.47.120";
 $host = "localhost:3306";
 $user = "root";
-$password = "123456";
+$password = "huayingtekmysql20160709";
 $databasename = "fota";
-$baseurl = "http://192.168.0.190/fota/";
-$basesslurl = "http://192.168.0.190/fota/";
+$baseurl = "http://120.76.47.120/fota/";
+$basesslurl = "http://120.76.47.120/fota/";
 // $baseurl="http://127.0.0.1/";
 // $basesslurl="https://127.0.0.1/";
 $upload_version_dir = '/var/www/OTA/';

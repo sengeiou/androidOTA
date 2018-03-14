@@ -1,13 +1,13 @@
 <?
 // session_start();
 require_once ('fotalog.php');
-$baseurl = "http://192.168.0.190/fota/download/";
-$basesslurl = "http://192.168.0.190/fota/download/";
+$baseurl = "http://120.76.47.120/fota/download/";
+$basesslurl = "http://120.76.47.120/fota/download/";
 // $baseurl="http://127.0.0.1/download/";
 // $basesslurl="https://127.0.0.1/download/";
 $host = "localhost:3306";
 $user = "root";
-$password = "123456";
+$password = "huayingtekmysql20160709";
 $databasename = "fota";
 $server_version = "6582";
 
@@ -91,14 +91,14 @@ function IsTokenInvalid($token) {
     info ( "Client Token: " . $token );
     if (isset ( $session_token ) && strlen ( $session_token ) > 0) {
         if (strcmp ( $token, $session_token ) == 0) {
-            // 验证成功
+            // 锟斤拷证锟缴癸拷
             return $token_valid_code;
         } else {
-            // token验证不正确
+            // token锟斤拷证锟斤拷锟斤拷确
             return $token_invalid_code;
         }
     } else {
-        // Session中token不存在
+        // Session锟斤拷token锟斤拷锟斤拷锟斤拷
         return $illegal_code;
     }
 }
