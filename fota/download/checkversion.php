@@ -78,7 +78,7 @@ if(!isset($token)||strlen($token)<=0){
 
 				//check if has delta package
 				$sle2='delta.version_id="'.$user_version_id.'" and delta.old_version="'.$user_version_number.'"';
-				$sql2='select delta.delta_id,delta.delta_notes,delta.delta_size,delta.delta_version from delta where '.$sle2 . ' order by delta_id desc';
+				$sql2='select delta.delta_id,delta.delta_notes,delta.delta_size, delta.delta_version from delta where '.$sle2 . ' order by delta_id desc';
 				$query2=mysql_query($sql2);
 				
 				info("check delta = $sql2");

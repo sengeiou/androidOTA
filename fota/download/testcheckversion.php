@@ -2,9 +2,9 @@
 session_start ();
 require_once ('config.php');
 $token = "this is a test token";
-session_register ( "token" );
+#session_register ( "token" );
 $_SESSION ["token"] = $token;
-session_register ( "istest_device" );
+#session_register ( "istest_device" );
 $_SESSION ["istest_device"] = 1;
 $oem = "";
 $product = "";
